@@ -35,3 +35,4 @@ permita flexibilidade na configuração do sistema de persistência (mudança do
 colaterais. A arquitetura selecionada para atender esta necessidade é a arquitetura MVC.  A estratégia de construção e integração do software será ascendente na hierarquia de 
 controle, ou seja, da base de dados (backend) para a interface de interação homem máquina (frontend). 
 ![cap06 diagrama de classes de projeto front](https://user-images.githubusercontent.com/68782201/114472495-b1949000-9bc8-11eb-8a07-14d3db52cb2b.png) 
+![Diagrama de classe Dominio](https://user-images.githubusercontent.com/89322701/134788754-15d358ac-0738-406e-9ac1-e0ee171deef2.png)

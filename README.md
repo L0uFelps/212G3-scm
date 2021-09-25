@@ -3,9 +3,10 @@
 ### Fatec -  Curso de Análise e Desenvolvimento de Sistemas 
 ### Disciplina – Programação Web – Prof. Edson Saraiva de Almeida 
 ### Grupo 3 
-- George Washington 
-- John Adams 
-- Thomas Jefferson 
+- Luis Felipe Feliciano
+- Richard Alves dos Santos
+- Silvio Rodrigues Correia
+- Vinicius Evangelista Feliciano 
 #### Objetivo 
 Sistemas de informação frequentemente devem ser integrados a outros sistemas para atender necessidades de negócios. A dinâmica das 
 mudanças e inovações nos negócios frequentes tem gerado uma demanda na manutenção e integração de sistemas que os 

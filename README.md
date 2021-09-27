@@ -3,7 +3,7 @@
 ### Fatec -  Curso de Análise e Desenvolvimento de Sistemas 
 ### Disciplina – Programação Web – Prof. Edson Saraiva de Almeida 
 ### Grupo 3 
-- Luis Felipe Feliciano
+- Luis Felipe Feliciano da Silva
 - Richard Alves dos Santos
 - Silvio Rodrigues Correia
 - Vinicius Evangelista Feliciano 
